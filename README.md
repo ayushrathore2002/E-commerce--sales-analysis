@@ -24,3 +24,4 @@ By quarters (Q1, Q2, Q3, Q4)
 By cities
 
 ## Snapshot
+https://github.com/ayushrathore2002/E-commerce--sales-analysis/blob/main/ecoomerce%20sales%20dashboard%20picture%201.png
