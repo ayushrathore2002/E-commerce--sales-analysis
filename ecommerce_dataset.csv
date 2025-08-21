@@ -1,0 +1,1001 @@
+OrderID,CustomerID,Product,Category,Quantity,Price,OrderDate,PaymentMethod,City
+1001,252,Mobile,Electronics,1,20000,2025-05-21,Debit Card,Hyderabad
+1002,293,Keyboard,Accessories,4,1500,2023-10-19,Cash on Delivery,Mumbai
+1003,215,Keyboard,Accessories,2,1500,2023-12-01,Net Banking,Mumbai
+1004,272,Laptop,Electronics,1,60000,2025-01-01,UPI,Chennai
+1005,261,Headphones,Accessories,3,2000,2023-04-26,Cash on Delivery,Hyderabad
+1006,221,Mouse,Accessories,2,800,2025-04-04,Net Banking,Kolkata
+1007,283,Monitor,Electronics,3,12000,2023-02-18,Credit Card,Chennai
+1008,287,Camera,Electronics,2,30000,2024-11-15,Credit Card,Kolkata
+1009,275,Smartwatch,Wearables,1,8000,2023-03-23,Debit Card,Chennai
+1010,275,Tablet,Electronics,3,15000,2025-04-13,Net Banking,Mumbai
+1011,288,Mouse,Accessories,3,800,2023-11-29,Credit Card,Chennai
+1012,300,Mobile,Electronics,2,20000,2024-07-10,UPI,Mumbai
+1013,224,Keyboard,Accessories,3,1500,2023-12-01,Net Banking,Delhi
+1014,203,Smartwatch,Wearables,2,8000,2024-06-15,UPI,Kolkata
+1015,222,Camera,Electronics,2,30000,2025-08-17,UPI,Hyderabad
+1016,253,Monitor,Electronics,2,12000,2023-08-09,Credit Card,Chennai
+1017,202,Laptop,Electronics,2,60000,2024-09-26,Net Banking,Mumbai
+1018,288,Camera,Electronics,1,30000,2025-01-15,Cash on Delivery,Bangalore
+1019,230,Smartwatch,Wearables,2,8000,2025-01-02,Credit Card,Kolkata
+1020,238,Camera,Electronics,4,30000,2023-11-19,Credit Card,Chennai
+1021,202,Smartwatch,Wearables,3,8000,2025-04-30,Net Banking,Pune
+1022,264,Smartwatch,Wearables,4,8000,2023-01-03,Net Banking,Delhi
+1023,260,Charger,Accessories,1,1000,2024-11-24,UPI,Delhi
+1024,221,Tablet,Electronics,4,15000,2023-07-25,Net Banking,Bangalore
+1025,233,Keyboard,Accessories,3,1500,2025-04-11,UPI,Mumbai
+1026,276,Charger,Accessories,4,1000,2023-02-09,Credit Card,Chennai
+1027,258,Monitor,Electronics,1,12000,2023-02-28,Debit Card,Kolkata
+1028,222,Charger,Accessories,2,1000,2025-08-08,Cash on Delivery,Mumbai
+1029,289,Headphones,Accessories,4,2000,2024-07-27,Credit Card,Delhi
+1030,249,Headphones,Accessories,1,2000,2024-10-05,Net Banking,Mumbai
+1031,291,Keyboard,Accessories,1,1500,2024-05-21,Cash on Delivery,Delhi
+1032,259,Camera,Electronics,3,30000,2024-07-25,Debit Card,Mumbai
+1033,242,Tablet,Electronics,3,15000,2025-06-02,Debit Card,Bangalore
+1034,292,Keyboard,Accessories,4,1500,2025-04-22,UPI,Hyderabad
+1035,260,Smartwatch,Wearables,2,8000,2023-05-02,Cash on Delivery,Bangalore
+1036,280,Mobile,Electronics,1,20000,2024-04-23,UPI,Bangalore
+1037,215,Tablet,Electronics,4,15000,2024-09-10,Credit Card,Hyderabad
+1038,262,Tablet,Electronics,1,15000,2023-04-06,Cash on Delivery,Hyderabad
+1039,262,Smartwatch,Wearables,1,8000,2025-05-08,Credit Card,Chennai
+1040,247,Smartwatch,Wearables,2,8000,2024-02-18,UPI,Kolkata
+1041,262,Laptop,Electronics,2,60000,2023-08-23,Cash on Delivery,Kolkata
+1042,251,Keyboard,Accessories,4,1500,2025-06-16,UPI,Chennai
+1043,255,Smartwatch,Wearables,2,8000,2023-03-03,Cash on Delivery,Bangalore
+1044,264,Headphones,Accessories,2,2000,2023-09-13,UPI,Bangalore
+1045,203,Monitor,Electronics,4,12000,2024-07-14,Debit Card,Delhi
+1046,251,Mobile,Electronics,2,20000,2025-06-23,UPI,Delhi
+1047,207,Keyboard,Accessories,3,1500,2023-12-14,Debit Card,Kolkata
+1048,221,Mouse,Accessories,1,800,2024-11-01,UPI,Chennai
+1049,273,Headphones,Accessories,1,2000,2023-05-04,Cash on Delivery,Pune
+1050,239,Camera,Electronics,1,30000,2024-04-26,Cash on Delivery,Pune
+1051,218,Smartwatch,Wearables,1,8000,2023-11-13,Cash on Delivery,Chennai
+1052,204,Mouse,Accessories,4,800,2024-05-18,Net Banking,Delhi
+1053,289,Smartwatch,Wearables,1,8000,2024-12-19,Credit Card,Kolkata
+1054,260,Tablet,Electronics,1,15000,2023-02-17,Cash on Delivery,Kolkata
+1055,214,Headphones,Accessories,1,2000,2024-02-13,Debit Card,Delhi
+1056,209,Tablet,Electronics,1,15000,2025-07-20,Cash on Delivery,Pune
+1057,290,Laptop,Electronics,3,60000,2023-05-16,Net Banking,Mumbai
+1058,253,Tablet,Electronics,1,15000,2023-07-20,Debit Card,Mumbai
+1059,202,Laptop,Electronics,3,60000,2023-09-07,Net Banking,Delhi
+1060,284,Laptop,Electronics,4,60000,2023-11-10,Debit Card,Mumbai
+1061,292,Mouse,Accessories,2,800,2025-05-18,UPI,Hyderabad
+1062,260,Smartwatch,Wearables,1,8000,2024-01-03,Credit Card,Chennai
+1063,271,Camera,Electronics,2,30000,2024-03-04,Credit Card,Chennai
+1064,244,Tablet,Electronics,2,15000,2025-04-09,Net Banking,Delhi
+1065,208,Headphones,Accessories,4,2000,2025-03-17,Credit Card,Bangalore
+1066,247,Laptop,Electronics,2,60000,2024-04-24,Net Banking,Pune
+1067,235,Smartwatch,Wearables,3,8000,2023-11-10,Net Banking,Delhi
+1068,278,Mobile,Electronics,2,20000,2024-05-14,Net Banking,Mumbai
+1069,281,Keyboard,Accessories,2,1500,2024-12-21,Credit Card,Pune
+1070,236,Mouse,Accessories,2,800,2023-12-21,Net Banking,Bangalore
+1071,250,Camera,Electronics,1,30000,2024-04-29,Credit Card,Mumbai
+1072,204,Charger,Accessories,1,1000,2023-07-30,Net Banking,Kolkata
+1073,202,Mouse,Accessories,3,800,2024-12-04,Cash on Delivery,Hyderabad
+1074,206,Mobile,Electronics,3,20000,2023-02-13,Net Banking,Mumbai
+1075,254,Keyboard,Accessories,1,1500,2024-06-24,Debit Card,Hyderabad
+1076,204,Mobile,Electronics,3,20000,2024-07-24,Net Banking,Pune
+1077,254,Tablet,Electronics,1,15000,2024-08-05,UPI,Hyderabad
+1078,293,Laptop,Electronics,4,60000,2023-04-02,Net Banking,Pune
+1079,263,Camera,Electronics,2,30000,2023-09-22,Debit Card,Pune
+1080,218,Monitor,Electronics,2,12000,2025-06-13,Debit Card,Pune
+1081,290,Laptop,Electronics,3,60000,2023-08-08,Credit Card,Pune
+1082,244,Monitor,Electronics,1,12000,2025-06-20,Cash on Delivery,Pune
+1083,234,Keyboard,Accessories,1,1500,2025-07-13,Net Banking,Mumbai
+1084,274,Smartwatch,Wearables,3,8000,2024-03-17,Credit Card,Pune
+1085,262,Charger,Accessories,1,1000,2024-02-05,Cash on Delivery,Mumbai
+1086,300,Headphones,Accessories,4,2000,2024-02-04,Net Banking,Pune
+1087,214,Laptop,Electronics,2,60000,2024-12-27,UPI,Hyderabad
+1088,295,Camera,Electronics,3,30000,2025-09-17,Net Banking,Kolkata
+1089,248,Mobile,Electronics,3,20000,2025-06-17,Debit Card,Pune
+1090,215,Camera,Electronics,1,30000,2025-02-27,Debit Card,Bangalore
+1091,272,Keyboard,Accessories,3,1500,2024-07-29,UPI,Pune
+1092,278,Monitor,Electronics,4,12000,2025-05-07,Credit Card,Pune
+1093,287,Mobile,Electronics,1,20000,2025-03-14,Cash on Delivery,Hyderabad
+1094,262,Headphones,Accessories,1,2000,2024-05-04,Net Banking,Chennai
+1095,240,Headphones,Accessories,1,2000,2024-04-29,Debit Card,Hyderabad
+1096,285,Laptop,Electronics,1,60000,2025-01-26,Credit Card,Bangalore
+1097,280,Keyboard,Accessories,4,1500,2024-04-14,UPI,Chennai
+1098,282,Smartwatch,Wearables,1,8000,2024-07-27,Debit Card,Delhi
+1099,253,Keyboard,Accessories,3,1500,2025-07-26,UPI,Delhi
+1100,224,Monitor,Electronics,4,12000,2025-04-23,Net Banking,Bangalore
+1101,226,Camera,Electronics,2,30000,2024-11-12,Cash on Delivery,Hyderabad
+1102,289,Headphones,Accessories,2,2000,2024-03-20,Debit Card,Mumbai
+1103,260,Camera,Electronics,3,30000,2023-09-26,Debit Card,Bangalore
+1104,241,Camera,Electronics,3,30000,2023-09-24,Net Banking,Kolkata
+1105,229,Camera,Electronics,4,30000,2023-02-23,Credit Card,Chennai
+1106,215,Headphones,Accessories,2,2000,2024-06-11,Cash on Delivery,Chennai
+1107,245,Mouse,Accessories,2,800,2024-06-03,Debit Card,Pune
+1108,265,Tablet,Electronics,2,15000,2024-09-07,Cash on Delivery,Delhi
+1109,289,Monitor,Electronics,2,12000,2023-02-28,Debit Card,Chennai
+1110,271,Mouse,Accessories,2,800,2025-04-04,Cash on Delivery,Bangalore
+1111,209,Monitor,Electronics,1,12000,2023-02-09,UPI,Chennai
+1112,288,Mobile,Electronics,3,20000,2023-08-25,Debit Card,Bangalore
+1113,201,Keyboard,Accessories,1,1500,2025-08-12,Cash on Delivery,Mumbai
+1114,208,Keyboard,Accessories,2,1500,2024-01-21,Credit Card,Pune
+1115,288,Charger,Accessories,4,1000,2024-08-28,UPI,Delhi
+1116,263,Keyboard,Accessories,4,1500,2025-01-03,UPI,Chennai
+1117,211,Headphones,Accessories,2,2000,2024-12-16,Credit Card,Bangalore
+1118,281,Smartwatch,Wearables,2,8000,2024-10-11,Cash on Delivery,Hyderabad
+1119,208,Laptop,Electronics,4,60000,2023-10-27,Net Banking,Delhi
+1120,235,Charger,Accessories,1,1000,2024-01-30,Credit Card,Mumbai
+1121,235,Laptop,Electronics,1,60000,2023-07-26,Cash on Delivery,Bangalore
+1122,233,Monitor,Electronics,2,12000,2023-12-02,Credit Card,Kolkata
+1123,205,Laptop,Electronics,1,60000,2024-08-15,Credit Card,Kolkata
+1124,241,Laptop,Electronics,4,60000,2024-12-30,Debit Card,Pune
+1125,228,Charger,Accessories,1,1000,2024-05-28,Cash on Delivery,Pune
+1126,207,Mobile,Electronics,2,20000,2023-06-27,Net Banking,Mumbai
+1127,273,Camera,Electronics,4,30000,2024-01-31,Debit Card,Mumbai
+1128,272,Keyboard,Accessories,1,1500,2024-01-06,Credit Card,Pune
+1129,212,Keyboard,Accessories,3,1500,2025-05-07,Credit Card,Chennai
+1130,234,Headphones,Accessories,4,2000,2025-03-01,Credit Card,Chennai
+1131,233,Charger,Accessories,4,1000,2024-10-19,Cash on Delivery,Bangalore
+1132,248,Headphones,Accessories,3,2000,2023-11-14,Cash on Delivery,Hyderabad
+1133,223,Smartwatch,Wearables,3,8000,2025-01-05,Debit Card,Bangalore
+1134,262,Smartwatch,Wearables,4,8000,2024-01-04,Net Banking,Hyderabad
+1135,288,Headphones,Accessories,3,2000,2024-01-19,Debit Card,Mumbai
+1136,237,Charger,Accessories,2,1000,2023-03-03,UPI,Delhi
+1137,299,Headphones,Accessories,2,2000,2025-03-16,Credit Card,Bangalore
+1138,244,Keyboard,Accessories,2,1500,2024-05-19,Credit Card,Bangalore
+1139,286,Mouse,Accessories,4,800,2023-08-27,Credit Card,Hyderabad
+1140,291,Tablet,Electronics,3,15000,2023-07-14,Debit Card,Mumbai
+1141,235,Laptop,Electronics,3,60000,2024-11-08,Debit Card,Mumbai
+1142,265,Tablet,Electronics,1,15000,2025-08-20,Credit Card,Kolkata
+1143,299,Charger,Accessories,1,1000,2023-08-10,Debit Card,Hyderabad
+1144,247,Tablet,Electronics,3,15000,2023-03-02,Cash on Delivery,Mumbai
+1145,278,Smartwatch,Wearables,3,8000,2023-05-09,Cash on Delivery,Pune
+1146,203,Monitor,Electronics,3,12000,2025-09-16,Debit Card,Chennai
+1147,201,Laptop,Electronics,4,60000,2024-11-15,Credit Card,Kolkata
+1148,205,Camera,Electronics,3,30000,2025-09-18,Debit Card,Pune
+1149,290,Charger,Accessories,1,1000,2023-06-05,Debit Card,Delhi
+1150,214,Laptop,Electronics,4,60000,2025-07-05,Debit Card,Bangalore
+1151,227,Tablet,Electronics,3,15000,2024-01-13,UPI,Kolkata
+1152,209,Smartwatch,Wearables,1,8000,2024-09-13,Cash on Delivery,Delhi
+1153,279,Mobile,Electronics,4,20000,2025-02-19,Net Banking,Bangalore
+1154,215,Mouse,Accessories,3,800,2025-07-11,Net Banking,Chennai
+1155,290,Camera,Electronics,3,30000,2025-05-17,UPI,Mumbai
+1156,242,Mouse,Accessories,3,800,2025-06-21,Debit Card,Pune
+1157,277,Laptop,Electronics,4,60000,2025-02-28,UPI,Hyderabad
+1158,251,Smartwatch,Wearables,1,8000,2024-08-08,UPI,Pune
+1159,263,Smartwatch,Wearables,1,8000,2025-09-25,Credit Card,Chennai
+1160,296,Tablet,Electronics,2,15000,2024-03-12,Cash on Delivery,Delhi
+1161,252,Keyboard,Accessories,3,1500,2025-09-01,Net Banking,Hyderabad
+1162,296,Tablet,Electronics,2,15000,2023-07-26,Debit Card,Mumbai
+1163,204,Keyboard,Accessories,2,1500,2024-01-23,Net Banking,Chennai
+1164,294,Keyboard,Accessories,1,1500,2024-04-24,Net Banking,Hyderabad
+1165,223,Camera,Electronics,4,30000,2025-03-01,Cash on Delivery,Chennai
+1166,215,Tablet,Electronics,4,15000,2025-06-05,Net Banking,Chennai
+1167,243,Mobile,Electronics,1,20000,2025-04-17,Net Banking,Mumbai
+1168,229,Headphones,Accessories,4,2000,2025-09-10,UPI,Kolkata
+1169,236,Headphones,Accessories,2,2000,2023-12-06,Cash on Delivery,Bangalore
+1170,213,Tablet,Electronics,3,15000,2025-05-18,Credit Card,Hyderabad
+1171,232,Tablet,Electronics,1,15000,2023-12-06,Debit Card,Mumbai
+1172,271,Mouse,Accessories,3,800,2023-07-23,Net Banking,Chennai
+1173,259,Camera,Electronics,4,30000,2023-06-10,Debit Card,Mumbai
+1174,286,Tablet,Electronics,3,15000,2024-06-23,Credit Card,Kolkata
+1175,228,Mouse,Accessories,4,800,2024-01-27,Debit Card,Bangalore
+1176,266,Keyboard,Accessories,4,1500,2025-02-07,Credit Card,Pune
+1177,242,Smartwatch,Wearables,2,8000,2024-11-07,UPI,Hyderabad
+1178,245,Smartwatch,Wearables,4,8000,2024-07-28,Net Banking,Bangalore
+1179,262,Keyboard,Accessories,2,1500,2024-06-17,Credit Card,Delhi
+1180,257,Charger,Accessories,2,1000,2023-03-11,Debit Card,Hyderabad
+1181,206,Mouse,Accessories,2,800,2025-06-11,Net Banking,Bangalore
+1182,228,Mouse,Accessories,1,800,2024-02-09,UPI,Chennai
+1183,228,Keyboard,Accessories,1,1500,2024-08-30,Net Banking,Hyderabad
+1184,244,Mobile,Electronics,4,20000,2024-11-05,Credit Card,Hyderabad
+1185,284,Monitor,Electronics,2,12000,2024-08-13,UPI,Mumbai
+1186,230,Laptop,Electronics,1,60000,2024-05-31,Debit Card,Chennai
+1187,262,Keyboard,Accessories,2,1500,2025-04-07,UPI,Delhi
+1188,275,Tablet,Electronics,3,15000,2023-04-30,UPI,Pune
+1189,292,Tablet,Electronics,3,15000,2025-03-24,Cash on Delivery,Kolkata
+1190,289,Camera,Electronics,3,30000,2024-11-20,UPI,Bangalore
+1191,262,Keyboard,Accessories,4,1500,2024-11-18,UPI,Mumbai
+1192,297,Camera,Electronics,2,30000,2025-06-20,Net Banking,Bangalore
+1193,201,Keyboard,Accessories,3,1500,2023-08-05,Debit Card,Delhi
+1194,227,Mouse,Accessories,1,800,2023-02-25,Net Banking,Delhi
+1195,262,Laptop,Electronics,3,60000,2024-01-01,Net Banking,Hyderabad
+1196,277,Mouse,Accessories,3,800,2024-11-29,Credit Card,Kolkata
+1197,203,Monitor,Electronics,3,12000,2024-05-18,Net Banking,Delhi
+1198,270,Smartwatch,Wearables,4,8000,2025-01-13,Cash on Delivery,Bangalore
+1199,272,Headphones,Accessories,1,2000,2025-02-05,Cash on Delivery,Chennai
+1200,227,Keyboard,Accessories,2,1500,2025-07-13,Credit Card,Chennai
+1201,209,Monitor,Electronics,1,12000,2024-03-30,Debit Card,Hyderabad
+1202,262,Smartwatch,Wearables,2,8000,2023-04-14,Debit Card,Pune
+1203,237,Charger,Accessories,4,1000,2023-03-18,Net Banking,Bangalore
+1204,297,Laptop,Electronics,4,60000,2023-08-18,Net Banking,Bangalore
+1205,251,Camera,Electronics,4,30000,2025-07-02,Net Banking,Delhi
+1206,244,Camera,Electronics,4,30000,2023-09-15,Debit Card,Kolkata
+1207,224,Mouse,Accessories,2,800,2023-09-21,UPI,Bangalore
+1208,279,Tablet,Electronics,3,15000,2023-11-27,Cash on Delivery,Mumbai
+1209,259,Smartwatch,Wearables,2,8000,2025-09-19,UPI,Pune
+1210,232,Charger,Accessories,1,1000,2023-07-01,UPI,Delhi
+1211,296,Monitor,Electronics,4,12000,2025-06-11,Debit Card,Mumbai
+1212,288,Laptop,Electronics,4,60000,2025-02-06,UPI,Hyderabad
+1213,252,Smartwatch,Wearables,1,8000,2024-07-03,Credit Card,Chennai
+1214,262,Charger,Accessories,2,1000,2024-11-18,Net Banking,Hyderabad
+1215,258,Headphones,Accessories,3,2000,2023-01-27,Credit Card,Chennai
+1216,252,Keyboard,Accessories,3,1500,2023-10-03,Cash on Delivery,Hyderabad
+1217,212,Camera,Electronics,1,30000,2024-10-13,Net Banking,Bangalore
+1218,239,Monitor,Electronics,3,12000,2023-10-26,UPI,Mumbai
+1219,202,Camera,Electronics,2,30000,2025-08-14,Cash on Delivery,Chennai
+1220,203,Monitor,Electronics,2,12000,2025-03-09,Net Banking,Delhi
+1221,256,Mouse,Accessories,1,800,2023-04-01,UPI,Mumbai
+1222,281,Tablet,Electronics,2,15000,2024-04-24,Credit Card,Delhi
+1223,259,Monitor,Electronics,4,12000,2024-07-26,Net Banking,Mumbai
+1224,202,Camera,Electronics,1,30000,2024-04-02,UPI,Mumbai
+1225,202,Mouse,Accessories,2,800,2024-03-26,Credit Card,Hyderabad
+1226,292,Monitor,Electronics,1,12000,2023-12-31,Cash on Delivery,Chennai
+1227,254,Headphones,Accessories,3,2000,2025-05-08,Cash on Delivery,Chennai
+1228,287,Tablet,Electronics,2,15000,2024-11-05,Cash on Delivery,Kolkata
+1229,296,Monitor,Electronics,4,12000,2023-12-17,Cash on Delivery,Mumbai
+1230,297,Mouse,Accessories,2,800,2024-10-16,Debit Card,Bangalore
+1231,201,Smartwatch,Wearables,1,8000,2024-02-04,Net Banking,Bangalore
+1232,219,Mobile,Electronics,1,20000,2023-09-10,Net Banking,Delhi
+1233,202,Charger,Accessories,2,1000,2025-02-19,Debit Card,Delhi
+1234,253,Mobile,Electronics,4,20000,2025-05-30,UPI,Hyderabad
+1235,244,Mobile,Electronics,4,20000,2025-03-13,UPI,Mumbai
+1236,290,Laptop,Electronics,4,60000,2024-04-03,Cash on Delivery,Delhi
+1237,232,Headphones,Accessories,1,2000,2024-11-29,Credit Card,Delhi
+1238,270,Smartwatch,Wearables,2,8000,2025-07-05,UPI,Pune
+1239,232,Keyboard,Accessories,3,1500,2024-05-13,Credit Card,Mumbai
+1240,268,Monitor,Electronics,1,12000,2025-08-07,Net Banking,Hyderabad
+1241,255,Charger,Accessories,4,1000,2025-08-28,Credit Card,Delhi
+1242,275,Tablet,Electronics,2,15000,2025-07-14,Net Banking,Hyderabad
+1243,256,Smartwatch,Wearables,4,8000,2024-05-22,Debit Card,Chennai
+1244,217,Camera,Electronics,3,30000,2023-10-31,Debit Card,Hyderabad
+1245,238,Keyboard,Accessories,4,1500,2024-05-15,Cash on Delivery,Bangalore
+1246,224,Laptop,Electronics,4,60000,2025-03-13,UPI,Bangalore
+1247,269,Laptop,Electronics,3,60000,2024-08-20,Cash on Delivery,Hyderabad
+1248,298,Smartwatch,Wearables,2,8000,2023-06-15,Net Banking,Bangalore
+1249,270,Mouse,Accessories,1,800,2024-02-19,Cash on Delivery,Chennai
+1250,286,Mobile,Electronics,2,20000,2024-04-06,Credit Card,Mumbai
+1251,211,Camera,Electronics,3,30000,2025-07-08,Net Banking,Bangalore
+1252,216,Laptop,Electronics,4,60000,2023-04-24,Debit Card,Bangalore
+1253,297,Charger,Accessories,2,1000,2024-03-08,UPI,Hyderabad
+1254,273,Laptop,Electronics,1,60000,2025-09-18,Net Banking,Chennai
+1255,259,Tablet,Electronics,3,15000,2023-12-22,Net Banking,Kolkata
+1256,270,Monitor,Electronics,2,12000,2025-07-16,Credit Card,Kolkata
+1257,280,Laptop,Electronics,1,60000,2024-11-25,UPI,Kolkata
+1258,293,Tablet,Electronics,3,15000,2023-07-26,Debit Card,Kolkata
+1259,203,Smartwatch,Wearables,1,8000,2025-02-06,Net Banking,Mumbai
+1260,220,Smartwatch,Wearables,3,8000,2023-08-23,Net Banking,Hyderabad
+1261,259,Keyboard,Accessories,4,1500,2024-03-17,Credit Card,Hyderabad
+1262,236,Laptop,Electronics,2,60000,2023-12-21,Cash on Delivery,Pune
+1263,219,Charger,Accessories,1,1000,2024-05-29,Debit Card,Chennai
+1264,290,Laptop,Electronics,3,60000,2023-07-27,UPI,Kolkata
+1265,267,Charger,Accessories,1,1000,2024-12-09,Net Banking,Mumbai
+1266,219,Headphones,Accessories,1,2000,2025-05-02,Net Banking,Chennai
+1267,220,Keyboard,Accessories,2,1500,2023-05-05,Debit Card,Kolkata
+1268,296,Headphones,Accessories,4,2000,2023-05-18,Cash on Delivery,Mumbai
+1269,271,Laptop,Electronics,1,60000,2023-12-05,Net Banking,Chennai
+1270,252,Keyboard,Accessories,3,1500,2024-06-20,Debit Card,Hyderabad
+1271,233,Headphones,Accessories,3,2000,2023-03-09,Credit Card,Hyderabad
+1272,240,Mobile,Electronics,4,20000,2024-07-26,Cash on Delivery,Delhi
+1273,239,Laptop,Electronics,3,60000,2024-06-24,UPI,Bangalore
+1274,282,Headphones,Accessories,4,2000,2024-01-18,Net Banking,Kolkata
+1275,201,Mobile,Electronics,3,20000,2023-01-19,Debit Card,Pune
+1276,211,Mobile,Electronics,2,20000,2024-11-13,Credit Card,Chennai
+1277,292,Smartwatch,Wearables,1,8000,2024-03-25,UPI,Pune
+1278,257,Laptop,Electronics,2,60000,2023-03-15,Debit Card,Delhi
+1279,289,Mobile,Electronics,1,20000,2024-07-26,Debit Card,Bangalore
+1280,250,Smartwatch,Wearables,1,8000,2025-07-27,UPI,Chennai
+1281,223,Headphones,Accessories,1,2000,2024-10-26,Credit Card,Mumbai
+1282,231,Tablet,Electronics,2,15000,2023-10-03,Credit Card,Kolkata
+1283,294,Laptop,Electronics,1,60000,2023-02-17,Cash on Delivery,Bangalore
+1284,242,Keyboard,Accessories,2,1500,2023-07-30,Net Banking,Hyderabad
+1285,299,Charger,Accessories,4,1000,2025-05-04,UPI,Delhi
+1286,207,Charger,Accessories,3,1000,2025-07-08,UPI,Bangalore
+1287,216,Headphones,Accessories,3,2000,2024-10-12,UPI,Kolkata
+1288,290,Mouse,Accessories,1,800,2024-09-13,Credit Card,Bangalore
+1289,260,Mouse,Accessories,2,800,2025-09-20,Net Banking,Kolkata
+1290,202,Headphones,Accessories,3,2000,2024-11-25,Cash on Delivery,Hyderabad
+1291,201,Mobile,Electronics,2,20000,2024-06-23,Debit Card,Chennai
+1292,248,Laptop,Electronics,2,60000,2024-12-09,Debit Card,Mumbai
+1293,212,Charger,Accessories,1,1000,2023-07-10,UPI,Hyderabad
+1294,269,Charger,Accessories,3,1000,2023-11-11,Net Banking,Mumbai
+1295,237,Mobile,Electronics,1,20000,2025-06-19,Credit Card,Chennai
+1296,232,Charger,Accessories,1,1000,2024-07-16,Net Banking,Bangalore
+1297,209,Keyboard,Accessories,3,1500,2024-10-22,Net Banking,Mumbai
+1298,299,Laptop,Electronics,3,60000,2025-02-18,Credit Card,Delhi
+1299,219,Monitor,Electronics,4,12000,2024-07-15,UPI,Delhi
+1300,248,Charger,Accessories,4,1000,2025-06-18,Net Banking,Kolkata
+1301,280,Headphones,Accessories,2,2000,2025-01-27,Debit Card,Hyderabad
+1302,203,Keyboard,Accessories,3,1500,2023-04-23,Credit Card,Chennai
+1303,220,Charger,Accessories,4,1000,2023-06-19,Cash on Delivery,Kolkata
+1304,224,Keyboard,Accessories,2,1500,2024-04-12,UPI,Hyderabad
+1305,254,Smartwatch,Wearables,2,8000,2024-11-08,Credit Card,Hyderabad
+1306,233,Monitor,Electronics,2,12000,2025-07-09,Cash on Delivery,Kolkata
+1307,224,Camera,Electronics,4,30000,2023-01-14,Cash on Delivery,Pune
+1308,275,Headphones,Accessories,3,2000,2024-12-15,Net Banking,Hyderabad
+1309,272,Headphones,Accessories,1,2000,2023-10-15,Net Banking,Pune
+1310,236,Laptop,Electronics,2,60000,2025-06-25,Net Banking,Delhi
+1311,238,Keyboard,Accessories,4,1500,2023-07-08,Credit Card,Delhi
+1312,284,Mobile,Electronics,4,20000,2025-07-02,Credit Card,Hyderabad
+1313,299,Headphones,Accessories,1,2000,2023-06-04,UPI,Delhi
+1314,289,Keyboard,Accessories,1,1500,2024-07-20,Net Banking,Chennai
+1315,299,Keyboard,Accessories,4,1500,2024-11-24,Cash on Delivery,Pune
+1316,225,Tablet,Electronics,3,15000,2024-12-22,Debit Card,Pune
+1317,293,Tablet,Electronics,1,15000,2025-06-06,UPI,Hyderabad
+1318,218,Camera,Electronics,4,30000,2024-04-15,Credit Card,Delhi
+1319,282,Smartwatch,Wearables,1,8000,2023-03-16,UPI,Mumbai
+1320,266,Camera,Electronics,3,30000,2023-10-04,UPI,Kolkata
+1321,254,Charger,Accessories,2,1000,2025-07-28,UPI,Kolkata
+1322,235,Mobile,Electronics,1,20000,2024-10-06,UPI,Pune
+1323,280,Charger,Accessories,3,1000,2023-12-09,Debit Card,Hyderabad
+1324,261,Mouse,Accessories,4,800,2024-02-29,Net Banking,Hyderabad
+1325,241,Charger,Accessories,1,1000,2024-07-24,Cash on Delivery,Chennai
+1326,300,Laptop,Electronics,1,60000,2024-05-25,UPI,Bangalore
+1327,233,Charger,Accessories,4,1000,2025-05-06,UPI,Bangalore
+1328,268,Camera,Electronics,2,30000,2023-07-01,UPI,Pune
+1329,233,Headphones,Accessories,4,2000,2024-04-02,Net Banking,Kolkata
+1330,214,Headphones,Accessories,1,2000,2025-07-06,Credit Card,Chennai
+1331,221,Tablet,Electronics,4,15000,2025-04-30,Credit Card,Chennai
+1332,248,Mobile,Electronics,3,20000,2025-04-12,Debit Card,Chennai
+1333,220,Mobile,Electronics,4,20000,2023-03-05,Credit Card,Pune
+1334,208,Laptop,Electronics,1,60000,2025-04-18,UPI,Bangalore
+1335,207,Camera,Electronics,4,30000,2023-09-17,UPI,Kolkata
+1336,267,Tablet,Electronics,2,15000,2023-07-12,UPI,Chennai
+1337,217,Mouse,Accessories,4,800,2024-10-16,Debit Card,Kolkata
+1338,233,Mobile,Electronics,2,20000,2024-09-07,UPI,Delhi
+1339,248,Headphones,Accessories,3,2000,2025-08-29,Credit Card,Hyderabad
+1340,276,Charger,Accessories,2,1000,2024-02-10,Net Banking,Hyderabad
+1341,259,Charger,Accessories,4,1000,2024-12-26,Net Banking,Kolkata
+1342,286,Tablet,Electronics,1,15000,2025-01-23,Cash on Delivery,Mumbai
+1343,222,Camera,Electronics,2,30000,2025-07-31,Credit Card,Mumbai
+1344,230,Camera,Electronics,3,30000,2024-12-21,UPI,Pune
+1345,238,Smartwatch,Wearables,2,8000,2023-04-03,Net Banking,Pune
+1346,251,Monitor,Electronics,2,12000,2024-03-05,Credit Card,Hyderabad
+1347,254,Mobile,Electronics,2,20000,2024-10-15,Net Banking,Delhi
+1348,208,Camera,Electronics,3,30000,2024-03-09,UPI,Bangalore
+1349,227,Headphones,Accessories,4,2000,2024-02-08,Net Banking,Bangalore
+1350,227,Tablet,Electronics,2,15000,2024-03-09,Cash on Delivery,Pune
+1351,298,Mouse,Accessories,2,800,2023-04-22,Cash on Delivery,Delhi
+1352,221,Smartwatch,Wearables,1,8000,2025-07-17,Net Banking,Pune
+1353,230,Keyboard,Accessories,3,1500,2024-01-10,Credit Card,Bangalore
+1354,297,Laptop,Electronics,2,60000,2023-02-28,Credit Card,Kolkata
+1355,228,Mouse,Accessories,3,800,2023-02-12,Credit Card,Pune
+1356,264,Keyboard,Accessories,2,1500,2023-07-26,Net Banking,Chennai
+1357,297,Charger,Accessories,4,1000,2025-02-18,Credit Card,Kolkata
+1358,269,Laptop,Electronics,4,60000,2023-10-23,UPI,Pune
+1359,261,Mobile,Electronics,2,20000,2023-04-28,Cash on Delivery,Hyderabad
+1360,248,Headphones,Accessories,4,2000,2024-06-15,UPI,Pune
+1361,219,Laptop,Electronics,2,60000,2023-08-10,Credit Card,Hyderabad
+1362,204,Monitor,Electronics,4,12000,2023-06-15,UPI,Delhi
+1363,235,Keyboard,Accessories,1,1500,2024-10-04,Credit Card,Bangalore
+1364,264,Mobile,Electronics,1,20000,2023-06-05,Net Banking,Kolkata
+1365,249,Monitor,Electronics,1,12000,2023-07-03,UPI,Kolkata
+1366,217,Charger,Accessories,3,1000,2023-03-31,Net Banking,Mumbai
+1367,244,Monitor,Electronics,3,12000,2023-04-04,Net Banking,Mumbai
+1368,292,Smartwatch,Wearables,1,8000,2023-01-13,Debit Card,Bangalore
+1369,230,Smartwatch,Wearables,3,8000,2025-08-30,Credit Card,Mumbai
+1370,293,Tablet,Electronics,4,15000,2025-04-13,Cash on Delivery,Kolkata
+1371,246,Mouse,Accessories,2,800,2025-03-15,Credit Card,Pune
+1372,206,Mouse,Accessories,2,800,2025-08-02,Cash on Delivery,Delhi
+1373,299,Mobile,Electronics,2,20000,2025-01-11,Credit Card,Delhi
+1374,237,Charger,Accessories,1,1000,2025-04-13,Net Banking,Bangalore
+1375,224,Camera,Electronics,3,30000,2025-03-14,UPI,Mumbai
+1376,293,Smartwatch,Wearables,4,8000,2024-03-13,UPI,Pune
+1377,246,Mobile,Electronics,4,20000,2024-06-21,Debit Card,Delhi
+1378,253,Camera,Electronics,1,30000,2024-08-09,Cash on Delivery,Delhi
+1379,295,Mouse,Accessories,4,800,2025-08-25,Cash on Delivery,Chennai
+1380,299,Tablet,Electronics,4,15000,2025-05-25,Cash on Delivery,Chennai
+1381,260,Monitor,Electronics,4,12000,2025-07-24,Net Banking,Kolkata
+1382,297,Smartwatch,Wearables,4,8000,2025-03-21,Cash on Delivery,Delhi
+1383,263,Mobile,Electronics,3,20000,2023-05-30,UPI,Bangalore
+1384,285,Laptop,Electronics,4,60000,2024-10-21,Net Banking,Hyderabad
+1385,232,Camera,Electronics,2,30000,2023-01-08,Credit Card,Hyderabad
+1386,287,Monitor,Electronics,1,12000,2023-01-29,Cash on Delivery,Pune
+1387,233,Smartwatch,Wearables,3,8000,2023-10-23,Cash on Delivery,Delhi
+1388,267,Mouse,Accessories,4,800,2025-09-12,Credit Card,Delhi
+1389,218,Charger,Accessories,3,1000,2025-07-14,Cash on Delivery,Kolkata
+1390,225,Camera,Electronics,4,30000,2024-12-21,Credit Card,Delhi
+1391,295,Mouse,Accessories,2,800,2024-10-01,Net Banking,Bangalore
+1392,254,Smartwatch,Wearables,1,8000,2023-12-06,UPI,Chennai
+1393,258,Camera,Electronics,4,30000,2024-09-19,Credit Card,Delhi
+1394,267,Monitor,Electronics,4,12000,2024-03-14,Debit Card,Delhi
+1395,246,Smartwatch,Wearables,4,8000,2023-05-24,Credit Card,Kolkata
+1396,224,Keyboard,Accessories,4,1500,2025-07-30,Cash on Delivery,Mumbai
+1397,232,Mobile,Electronics,1,20000,2025-04-09,Net Banking,Kolkata
+1398,247,Monitor,Electronics,1,12000,2025-01-16,Net Banking,Kolkata
+1399,286,Camera,Electronics,2,30000,2024-06-02,Credit Card,Bangalore
+1400,223,Charger,Accessories,1,1000,2025-09-02,UPI,Pune
+1401,266,Mouse,Accessories,4,800,2023-02-14,Debit Card,Delhi
+1402,227,Laptop,Electronics,2,60000,2025-08-12,Net Banking,Kolkata
+1403,202,Mouse,Accessories,2,800,2023-08-27,Cash on Delivery,Kolkata
+1404,290,Camera,Electronics,2,30000,2025-08-09,Cash on Delivery,Mumbai
+1405,217,Mouse,Accessories,4,800,2025-08-01,UPI,Kolkata
+1406,233,Mobile,Electronics,3,20000,2023-06-04,Net Banking,Hyderabad
+1407,209,Smartwatch,Wearables,4,8000,2023-06-30,Credit Card,Pune
+1408,243,Laptop,Electronics,1,60000,2023-08-03,Cash on Delivery,Delhi
+1409,248,Headphones,Accessories,1,2000,2023-03-29,UPI,Delhi
+1410,239,Camera,Electronics,4,30000,2023-09-13,Net Banking,Mumbai
+1411,293,Tablet,Electronics,4,15000,2024-05-25,Net Banking,Bangalore
+1412,242,Headphones,Accessories,2,2000,2023-03-14,Net Banking,Delhi
+1413,226,Mouse,Accessories,4,800,2025-07-19,Net Banking,Hyderabad
+1414,299,Camera,Electronics,2,30000,2023-06-28,Net Banking,Delhi
+1415,250,Keyboard,Accessories,1,1500,2023-07-31,Cash on Delivery,Hyderabad
+1416,225,Tablet,Electronics,2,15000,2025-03-15,UPI,Pune
+1417,224,Laptop,Electronics,4,60000,2023-08-22,Net Banking,Pune
+1418,213,Charger,Accessories,1,1000,2024-04-09,Debit Card,Chennai
+1419,260,Keyboard,Accessories,3,1500,2025-01-20,Debit Card,Chennai
+1420,207,Headphones,Accessories,2,2000,2023-08-11,UPI,Hyderabad
+1421,257,Smartwatch,Wearables,1,8000,2024-09-22,Credit Card,Bangalore
+1422,236,Mobile,Electronics,2,20000,2025-04-04,Credit Card,Delhi
+1423,245,Charger,Accessories,1,1000,2023-09-21,Credit Card,Kolkata
+1424,220,Keyboard,Accessories,1,1500,2023-07-26,Debit Card,Delhi
+1425,265,Smartwatch,Wearables,2,8000,2024-08-29,Credit Card,Chennai
+1426,208,Smartwatch,Wearables,3,8000,2025-06-03,Cash on Delivery,Kolkata
+1427,216,Camera,Electronics,1,30000,2025-01-03,Net Banking,Hyderabad
+1428,214,Keyboard,Accessories,1,1500,2024-01-01,Debit Card,Kolkata
+1429,276,Laptop,Electronics,1,60000,2023-10-03,UPI,Delhi
+1430,287,Mouse,Accessories,3,800,2024-01-15,UPI,Delhi
+1431,215,Tablet,Electronics,3,15000,2025-01-12,Net Banking,Bangalore
+1432,292,Tablet,Electronics,4,15000,2023-11-05,Debit Card,Mumbai
+1433,298,Headphones,Accessories,2,2000,2024-09-22,Credit Card,Kolkata
+1434,266,Headphones,Accessories,3,2000,2023-09-25,Credit Card,Chennai
+1435,232,Tablet,Electronics,2,15000,2025-08-02,Cash on Delivery,Chennai
+1436,287,Laptop,Electronics,4,60000,2025-02-23,Cash on Delivery,Mumbai
+1437,263,Mobile,Electronics,2,20000,2023-03-05,Credit Card,Delhi
+1438,286,Monitor,Electronics,3,12000,2025-03-20,UPI,Bangalore
+1439,251,Mouse,Accessories,2,800,2023-12-16,UPI,Bangalore
+1440,225,Mobile,Electronics,3,20000,2025-07-13,Cash on Delivery,Chennai
+1441,258,Camera,Electronics,2,30000,2025-07-03,Net Banking,Bangalore
+1442,263,Monitor,Electronics,3,12000,2024-05-08,Credit Card,Pune
+1443,262,Monitor,Electronics,3,12000,2024-06-06,Cash on Delivery,Mumbai
+1444,222,Keyboard,Accessories,2,1500,2023-04-08,Cash on Delivery,Delhi
+1445,258,Laptop,Electronics,4,60000,2025-08-03,Credit Card,Pune
+1446,258,Laptop,Electronics,1,60000,2023-03-12,Credit Card,Mumbai
+1447,286,Monitor,Electronics,4,12000,2023-12-30,UPI,Hyderabad
+1448,249,Keyboard,Accessories,2,1500,2024-07-23,Net Banking,Kolkata
+1449,252,Mouse,Accessories,4,800,2025-03-12,Net Banking,Chennai
+1450,242,Monitor,Electronics,3,12000,2025-02-01,Credit Card,Bangalore
+1451,270,Charger,Accessories,1,1000,2023-10-03,Debit Card,Hyderabad
+1452,215,Headphones,Accessories,2,2000,2023-02-19,Cash on Delivery,Bangalore
+1453,254,Headphones,Accessories,2,2000,2023-12-24,Cash on Delivery,Pune
+1454,260,Mobile,Electronics,2,20000,2024-12-28,Credit Card,Delhi
+1455,297,Camera,Electronics,1,30000,2025-06-24,Debit Card,Delhi
+1456,208,Headphones,Accessories,3,2000,2025-07-16,UPI,Delhi
+1457,253,Smartwatch,Wearables,2,8000,2024-07-17,Credit Card,Bangalore
+1458,260,Mobile,Electronics,4,20000,2025-02-21,Credit Card,Hyderabad
+1459,205,Headphones,Accessories,2,2000,2024-04-29,Cash on Delivery,Delhi
+1460,268,Camera,Electronics,2,30000,2023-03-25,Credit Card,Hyderabad
+1461,206,Laptop,Electronics,2,60000,2025-06-17,Credit Card,Bangalore
+1462,296,Laptop,Electronics,2,60000,2025-03-15,Credit Card,Pune
+1463,294,Mouse,Accessories,3,800,2024-09-29,Cash on Delivery,Hyderabad
+1464,247,Monitor,Electronics,4,12000,2025-03-18,UPI,Pune
+1465,299,Charger,Accessories,3,1000,2024-08-06,UPI,Bangalore
+1466,255,Laptop,Electronics,4,60000,2023-10-23,Credit Card,Bangalore
+1467,240,Keyboard,Accessories,2,1500,2023-08-24,Cash on Delivery,Chennai
+1468,252,Headphones,Accessories,1,2000,2023-02-25,UPI,Bangalore
+1469,216,Keyboard,Accessories,3,1500,2025-07-07,UPI,Bangalore
+1470,213,Camera,Electronics,1,30000,2023-12-26,UPI,Mumbai
+1471,230,Laptop,Electronics,3,60000,2025-06-25,Cash on Delivery,Delhi
+1472,219,Charger,Accessories,2,1000,2023-04-20,Cash on Delivery,Chennai
+1473,217,Camera,Electronics,3,30000,2023-07-11,Credit Card,Kolkata
+1474,263,Smartwatch,Wearables,2,8000,2025-06-22,Net Banking,Chennai
+1475,219,Smartwatch,Wearables,3,8000,2023-04-03,UPI,Chennai
+1476,292,Keyboard,Accessories,2,1500,2025-05-11,Net Banking,Kolkata
+1477,258,Monitor,Electronics,2,12000,2024-07-21,Cash on Delivery,Mumbai
+1478,255,Mobile,Electronics,4,20000,2023-03-01,Cash on Delivery,Pune
+1479,290,Monitor,Electronics,2,12000,2024-10-11,Cash on Delivery,Bangalore
+1480,290,Mouse,Accessories,4,800,2023-02-08,Net Banking,Delhi
+1481,262,Monitor,Electronics,2,12000,2024-06-23,Cash on Delivery,Hyderabad
+1482,223,Mouse,Accessories,1,800,2023-02-18,Credit Card,Kolkata
+1483,209,Mouse,Accessories,2,800,2024-02-24,Cash on Delivery,Pune
+1484,212,Charger,Accessories,1,1000,2024-09-28,Debit Card,Kolkata
+1485,201,Laptop,Electronics,1,60000,2023-01-13,Net Banking,Bangalore
+1486,258,Charger,Accessories,2,1000,2025-09-18,Debit Card,Mumbai
+1487,201,Mouse,Accessories,1,800,2023-02-05,Cash on Delivery,Kolkata
+1488,234,Camera,Electronics,4,30000,2023-04-11,Credit Card,Bangalore
+1489,296,Smartwatch,Wearables,3,8000,2025-03-04,UPI,Bangalore
+1490,248,Mouse,Accessories,2,800,2023-03-27,Cash on Delivery,Mumbai
+1491,289,Charger,Accessories,1,1000,2024-05-30,Credit Card,Chennai
+1492,201,Camera,Electronics,2,30000,2023-08-11,Net Banking,Chennai
+1493,216,Charger,Accessories,4,1000,2023-12-04,Debit Card,Delhi
+1494,261,Monitor,Electronics,2,12000,2025-08-17,Debit Card,Delhi
+1495,264,Headphones,Accessories,2,2000,2023-06-15,Debit Card,Chennai
+1496,263,Keyboard,Accessories,1,1500,2024-01-18,Net Banking,Pune
+1497,269,Mobile,Electronics,4,20000,2025-05-05,Credit Card,Hyderabad
+1498,222,Charger,Accessories,3,1000,2025-06-13,Net Banking,Bangalore
+1499,293,Mobile,Electronics,3,20000,2024-01-11,Debit Card,Hyderabad
+1500,267,Tablet,Electronics,1,15000,2024-04-15,Cash on Delivery,Bangalore
+1501,276,Charger,Accessories,2,1000,2025-02-28,UPI,Chennai
+1502,226,Headphones,Accessories,1,2000,2024-10-03,Net Banking,Delhi
+1503,216,Mobile,Electronics,1,20000,2023-01-31,Net Banking,Pune
+1504,251,Mouse,Accessories,1,800,2024-01-10,Credit Card,Delhi
+1505,286,Charger,Accessories,2,1000,2023-01-11,Credit Card,Hyderabad
+1506,257,Laptop,Electronics,4,60000,2025-09-14,Net Banking,Delhi
+1507,229,Keyboard,Accessories,1,1500,2023-10-29,Debit Card,Chennai
+1508,278,Headphones,Accessories,2,2000,2023-04-06,UPI,Pune
+1509,292,Mobile,Electronics,4,20000,2023-07-09,Credit Card,Hyderabad
+1510,269,Headphones,Accessories,1,2000,2024-03-28,Debit Card,Pune
+1511,247,Camera,Electronics,3,30000,2023-07-11,Cash on Delivery,Bangalore
+1512,294,Keyboard,Accessories,4,1500,2024-04-30,Credit Card,Delhi
+1513,262,Mouse,Accessories,1,800,2023-09-23,Debit Card,Pune
+1514,269,Charger,Accessories,4,1000,2024-02-28,Debit Card,Mumbai
+1515,276,Charger,Accessories,4,1000,2023-05-08,UPI,Delhi
+1516,216,Charger,Accessories,4,1000,2023-08-26,UPI,Bangalore
+1517,290,Keyboard,Accessories,4,1500,2025-07-08,Cash on Delivery,Pune
+1518,290,Laptop,Electronics,4,60000,2023-12-21,Debit Card,Hyderabad
+1519,248,Tablet,Electronics,4,15000,2025-07-28,Debit Card,Bangalore
+1520,285,Smartwatch,Wearables,1,8000,2023-04-22,UPI,Mumbai
+1521,239,Monitor,Electronics,3,12000,2025-04-07,Credit Card,Pune
+1522,300,Mobile,Electronics,2,20000,2024-03-21,Credit Card,Kolkata
+1523,233,Laptop,Electronics,4,60000,2023-12-09,Net Banking,Kolkata
+1524,294,Mouse,Accessories,2,800,2023-05-25,UPI,Chennai
+1525,223,Mobile,Electronics,1,20000,2023-03-06,Net Banking,Delhi
+1526,210,Charger,Accessories,4,1000,2023-09-04,UPI,Hyderabad
+1527,269,Headphones,Accessories,3,2000,2025-01-04,Cash on Delivery,Chennai
+1528,300,Mouse,Accessories,2,800,2025-09-17,Debit Card,Pune
+1529,234,Mobile,Electronics,4,20000,2024-05-04,Cash on Delivery,Kolkata
+1530,252,Charger,Accessories,1,1000,2025-04-04,UPI,Kolkata
+1531,295,Mobile,Electronics,3,20000,2024-03-14,Debit Card,Kolkata
+1532,210,Headphones,Accessories,2,2000,2023-04-16,Credit Card,Pune
+1533,219,Charger,Accessories,2,1000,2023-06-30,Credit Card,Kolkata
+1534,258,Tablet,Electronics,4,15000,2023-07-03,Net Banking,Bangalore
+1535,296,Laptop,Electronics,3,60000,2023-08-14,UPI,Pune
+1536,201,Camera,Electronics,3,30000,2025-02-15,UPI,Hyderabad
+1537,269,Monitor,Electronics,3,12000,2025-02-28,Credit Card,Chennai
+1538,204,Keyboard,Accessories,3,1500,2025-06-27,Cash on Delivery,Hyderabad
+1539,216,Monitor,Electronics,1,12000,2023-03-30,Debit Card,Mumbai
+1540,224,Mouse,Accessories,3,800,2024-11-18,Cash on Delivery,Kolkata
+1541,280,Monitor,Electronics,2,12000,2024-06-13,Cash on Delivery,Mumbai
+1542,202,Charger,Accessories,2,1000,2024-01-06,Credit Card,Delhi
+1543,292,Tablet,Electronics,1,15000,2025-08-29,Credit Card,Delhi
+1544,232,Camera,Electronics,2,30000,2025-07-24,Credit Card,Mumbai
+1545,291,Laptop,Electronics,2,60000,2025-07-01,Net Banking,Pune
+1546,284,Laptop,Electronics,3,60000,2024-02-03,Cash on Delivery,Hyderabad
+1547,224,Headphones,Accessories,2,2000,2023-04-16,UPI,Mumbai
+1548,212,Keyboard,Accessories,1,1500,2023-09-28,Debit Card,Delhi
+1549,250,Mobile,Electronics,3,20000,2025-09-01,Net Banking,Mumbai
+1550,235,Tablet,Electronics,4,15000,2025-04-10,UPI,Pune
+1551,233,Mobile,Electronics,3,20000,2024-05-17,Cash on Delivery,Mumbai
+1552,233,Camera,Electronics,1,30000,2024-11-09,Credit Card,Hyderabad
+1553,261,Monitor,Electronics,3,12000,2024-06-08,Cash on Delivery,Chennai
+1554,251,Laptop,Electronics,3,60000,2025-04-28,Debit Card,Pune
+1555,243,Camera,Electronics,1,30000,2023-02-01,Net Banking,Delhi
+1556,212,Monitor,Electronics,3,12000,2024-01-28,Net Banking,Hyderabad
+1557,267,Laptop,Electronics,1,60000,2023-02-09,Debit Card,Mumbai
+1558,265,Monitor,Electronics,1,12000,2024-10-21,UPI,Mumbai
+1559,233,Keyboard,Accessories,4,1500,2023-08-06,UPI,Chennai
+1560,240,Tablet,Electronics,2,15000,2024-12-31,Net Banking,Delhi
+1561,274,Mouse,Accessories,2,800,2025-09-07,Net Banking,Delhi
+1562,243,Camera,Electronics,3,30000,2023-03-23,Credit Card,Bangalore
+1563,244,Camera,Electronics,3,30000,2025-04-24,UPI,Delhi
+1564,229,Smartwatch,Wearables,4,8000,2024-12-20,Debit Card,Chennai
+1565,213,Charger,Accessories,4,1000,2023-07-20,UPI,Kolkata
+1566,212,Keyboard,Accessories,4,1500,2024-03-22,Credit Card,Bangalore
+1567,295,Keyboard,Accessories,1,1500,2025-04-23,Net Banking,Bangalore
+1568,246,Mobile,Electronics,4,20000,2024-03-03,Net Banking,Mumbai
+1569,202,Monitor,Electronics,4,12000,2023-02-07,Credit Card,Mumbai
+1570,235,Charger,Accessories,3,1000,2023-07-30,Debit Card,Delhi
+1571,287,Tablet,Electronics,4,15000,2024-03-19,Net Banking,Bangalore
+1572,281,Tablet,Electronics,1,15000,2023-11-23,Cash on Delivery,Mumbai
+1573,290,Keyboard,Accessories,1,1500,2025-01-30,Net Banking,Chennai
+1574,208,Tablet,Electronics,3,15000,2023-08-15,Cash on Delivery,Mumbai
+1575,293,Smartwatch,Wearables,4,8000,2023-02-17,Credit Card,Pune
+1576,226,Camera,Electronics,4,30000,2023-01-18,Credit Card,Pune
+1577,274,Headphones,Accessories,1,2000,2025-06-30,Net Banking,Mumbai
+1578,290,Mouse,Accessories,4,800,2024-03-14,UPI,Bangalore
+1579,234,Mobile,Electronics,4,20000,2025-03-17,Cash on Delivery,Kolkata
+1580,207,Monitor,Electronics,4,12000,2024-12-08,Debit Card,Kolkata
+1581,268,Mouse,Accessories,2,800,2023-07-06,Net Banking,Bangalore
+1582,258,Monitor,Electronics,3,12000,2023-12-11,Debit Card,Hyderabad
+1583,275,Laptop,Electronics,2,60000,2023-08-12,Net Banking,Kolkata
+1584,229,Mouse,Accessories,3,800,2025-04-09,UPI,Pune
+1585,236,Headphones,Accessories,1,2000,2024-05-02,UPI,Chennai
+1586,289,Keyboard,Accessories,4,1500,2025-06-27,UPI,Bangalore
+1587,221,Smartwatch,Wearables,3,8000,2025-05-26,UPI,Delhi
+1588,236,Camera,Electronics,2,30000,2025-04-28,Credit Card,Pune
+1589,210,Camera,Electronics,4,30000,2023-08-17,Credit Card,Chennai
+1590,273,Smartwatch,Wearables,1,8000,2024-01-25,Cash on Delivery,Chennai
+1591,224,Charger,Accessories,3,1000,2025-09-05,Debit Card,Bangalore
+1592,264,Laptop,Electronics,3,60000,2024-08-11,Net Banking,Chennai
+1593,299,Monitor,Electronics,3,12000,2023-07-07,Net Banking,Bangalore
+1594,249,Headphones,Accessories,4,2000,2025-05-07,Credit Card,Kolkata
+1595,299,Tablet,Electronics,2,15000,2023-09-27,Net Banking,Mumbai
+1596,236,Mouse,Accessories,2,800,2024-08-29,Credit Card,Pune
+1597,282,Laptop,Electronics,3,60000,2023-11-06,Cash on Delivery,Hyderabad
+1598,296,Mouse,Accessories,1,800,2023-05-12,Debit Card,Mumbai
+1599,224,Headphones,Accessories,1,2000,2024-07-04,Cash on Delivery,Pune
+1600,223,Mobile,Electronics,2,20000,2023-03-13,UPI,Bangalore
+1601,262,Mobile,Electronics,1,20000,2025-03-03,UPI,Pune
+1602,296,Laptop,Electronics,2,60000,2025-04-24,UPI,Kolkata
+1603,237,Keyboard,Accessories,3,1500,2024-11-02,Cash on Delivery,Bangalore
+1604,212,Headphones,Accessories,2,2000,2023-07-06,Net Banking,Mumbai
+1605,255,Headphones,Accessories,2,2000,2024-04-30,Debit Card,Delhi
+1606,213,Smartwatch,Wearables,3,8000,2023-07-10,UPI,Delhi
+1607,223,Keyboard,Accessories,1,1500,2024-02-26,UPI,Pune
+1608,289,Monitor,Electronics,2,12000,2023-04-30,UPI,Delhi
+1609,299,Monitor,Electronics,2,12000,2023-08-08,Debit Card,Bangalore
+1610,230,Tablet,Electronics,3,15000,2023-02-22,UPI,Chennai
+1611,217,Camera,Electronics,1,30000,2025-01-03,Debit Card,Bangalore
+1612,262,Mobile,Electronics,2,20000,2024-03-26,UPI,Chennai
+1613,284,Monitor,Electronics,3,12000,2024-02-16,Cash on Delivery,Mumbai
+1614,289,Keyboard,Accessories,2,1500,2024-10-04,Cash on Delivery,Hyderabad
+1615,286,Headphones,Accessories,4,2000,2023-08-25,Debit Card,Chennai
+1616,213,Monitor,Electronics,3,12000,2025-01-27,Cash on Delivery,Delhi
+1617,259,Headphones,Accessories,1,2000,2025-01-07,Debit Card,Bangalore
+1618,219,Monitor,Electronics,1,12000,2024-12-20,Cash on Delivery,Mumbai
+1619,249,Mobile,Electronics,1,20000,2024-02-10,Cash on Delivery,Delhi
+1620,300,Mouse,Accessories,1,800,2024-08-30,Debit Card,Mumbai
+1621,212,Monitor,Electronics,2,12000,2024-02-26,Net Banking,Hyderabad
+1622,261,Keyboard,Accessories,2,1500,2024-12-12,Cash on Delivery,Kolkata
+1623,219,Monitor,Electronics,1,12000,2023-09-04,UPI,Bangalore
+1624,276,Camera,Electronics,1,30000,2023-03-13,Net Banking,Pune
+1625,209,Mobile,Electronics,1,20000,2025-04-09,Debit Card,Bangalore
+1626,271,Keyboard,Accessories,2,1500,2023-07-04,Net Banking,Hyderabad
+1627,228,Smartwatch,Wearables,1,8000,2023-01-06,Credit Card,Bangalore
+1628,278,Keyboard,Accessories,1,1500,2023-07-25,Credit Card,Pune
+1629,295,Camera,Electronics,4,30000,2024-06-27,Cash on Delivery,Chennai
+1630,252,Mouse,Accessories,4,800,2024-09-02,Cash on Delivery,Mumbai
+1631,283,Mobile,Electronics,1,20000,2025-06-24,UPI,Pune
+1632,216,Smartwatch,Wearables,3,8000,2024-01-22,Net Banking,Delhi
+1633,269,Camera,Electronics,1,30000,2025-02-06,Credit Card,Hyderabad
+1634,299,Camera,Electronics,4,30000,2024-11-29,Cash on Delivery,Chennai
+1635,212,Laptop,Electronics,3,60000,2023-03-17,Net Banking,Delhi
+1636,225,Mobile,Electronics,3,20000,2023-06-26,Cash on Delivery,Delhi
+1637,252,Keyboard,Accessories,1,1500,2025-04-06,Cash on Delivery,Hyderabad
+1638,285,Headphones,Accessories,4,2000,2025-03-09,Credit Card,Chennai
+1639,300,Mouse,Accessories,4,800,2023-12-15,Credit Card,Kolkata
+1640,253,Headphones,Accessories,3,2000,2023-09-12,Cash on Delivery,Delhi
+1641,223,Keyboard,Accessories,1,1500,2025-04-16,Debit Card,Delhi
+1642,216,Keyboard,Accessories,2,1500,2024-12-02,Cash on Delivery,Chennai
+1643,257,Mobile,Electronics,2,20000,2023-11-04,Cash on Delivery,Bangalore
+1644,239,Keyboard,Accessories,4,1500,2023-12-11,UPI,Delhi
+1645,253,Laptop,Electronics,2,60000,2023-05-07,UPI,Mumbai
+1646,242,Smartwatch,Wearables,4,8000,2025-07-25,UPI,Chennai
+1647,258,Keyboard,Accessories,4,1500,2023-10-14,Debit Card,Delhi
+1648,239,Headphones,Accessories,4,2000,2025-02-04,Debit Card,Hyderabad
+1649,214,Keyboard,Accessories,2,1500,2024-12-25,Cash on Delivery,Pune
+1650,295,Laptop,Electronics,4,60000,2025-01-31,UPI,Mumbai
+1651,205,Monitor,Electronics,3,12000,2024-08-18,Debit Card,Pune
+1652,235,Monitor,Electronics,1,12000,2024-05-01,Credit Card,Pune
+1653,287,Camera,Electronics,1,30000,2024-01-18,Cash on Delivery,Delhi
+1654,293,Mouse,Accessories,4,800,2024-02-10,Net Banking,Mumbai
+1655,275,Tablet,Electronics,1,15000,2024-01-23,Cash on Delivery,Mumbai
+1656,218,Smartwatch,Wearables,2,8000,2024-06-08,Net Banking,Bangalore
+1657,276,Charger,Accessories,2,1000,2024-07-10,UPI,Pune
+1658,209,Camera,Electronics,1,30000,2024-09-30,Net Banking,Mumbai
+1659,274,Mouse,Accessories,2,800,2025-07-26,UPI,Bangalore
+1660,258,Monitor,Electronics,1,12000,2024-09-17,Credit Card,Chennai
+1661,217,Headphones,Accessories,1,2000,2025-08-02,Net Banking,Bangalore
+1662,207,Charger,Accessories,1,1000,2023-10-03,Cash on Delivery,Hyderabad
+1663,246,Mouse,Accessories,4,800,2024-05-14,UPI,Kolkata
+1664,213,Mouse,Accessories,1,800,2024-12-17,Cash on Delivery,Delhi
+1665,240,Camera,Electronics,4,30000,2023-12-03,Debit Card,Chennai
+1666,242,Charger,Accessories,1,1000,2025-08-07,UPI,Kolkata
+1667,209,Mobile,Electronics,1,20000,2025-07-20,Net Banking,Kolkata
+1668,250,Tablet,Electronics,1,15000,2024-04-25,UPI,Chennai
+1669,227,Mobile,Electronics,2,20000,2025-06-15,Cash on Delivery,Hyderabad
+1670,266,Charger,Accessories,4,1000,2025-06-29,Credit Card,Bangalore
+1671,205,Mobile,Electronics,4,20000,2025-08-30,UPI,Delhi
+1672,229,Laptop,Electronics,1,60000,2023-09-30,Net Banking,Bangalore
+1673,237,Monitor,Electronics,1,12000,2025-07-08,Debit Card,Mumbai
+1674,238,Laptop,Electronics,2,60000,2023-02-27,Credit Card,Bangalore
+1675,283,Keyboard,Accessories,2,1500,2023-11-24,Debit Card,Chennai
+1676,208,Mobile,Electronics,2,20000,2024-12-31,UPI,Delhi
+1677,265,Keyboard,Accessories,4,1500,2023-04-19,Cash on Delivery,Bangalore
+1678,286,Headphones,Accessories,4,2000,2023-10-06,Cash on Delivery,Delhi
+1679,217,Smartwatch,Wearables,4,8000,2024-11-16,Net Banking,Delhi
+1680,271,Headphones,Accessories,1,2000,2023-11-24,Cash on Delivery,Mumbai
+1681,289,Charger,Accessories,4,1000,2025-02-14,Credit Card,Mumbai
+1682,245,Mouse,Accessories,3,800,2023-11-11,Cash on Delivery,Chennai
+1683,204,Monitor,Electronics,3,12000,2024-04-18,Net Banking,Hyderabad
+1684,236,Mobile,Electronics,2,20000,2023-04-21,UPI,Kolkata
+1685,270,Camera,Electronics,4,30000,2024-11-29,UPI,Delhi
+1686,231,Smartwatch,Wearables,3,8000,2025-02-19,Cash on Delivery,Hyderabad
+1687,219,Tablet,Electronics,2,15000,2025-07-23,Debit Card,Kolkata
+1688,261,Tablet,Electronics,4,15000,2023-08-17,UPI,Kolkata
+1689,254,Tablet,Electronics,1,15000,2024-05-11,Cash on Delivery,Chennai
+1690,239,Mobile,Electronics,3,20000,2023-06-05,Net Banking,Kolkata
+1691,291,Tablet,Electronics,1,15000,2024-04-17,Cash on Delivery,Kolkata
+1692,274,Laptop,Electronics,4,60000,2024-12-01,UPI,Delhi
+1693,290,Smartwatch,Wearables,3,8000,2023-09-29,Net Banking,Delhi
+1694,219,Laptop,Electronics,4,60000,2025-06-05,Cash on Delivery,Pune
+1695,239,Mouse,Accessories,1,800,2023-01-02,Credit Card,Hyderabad
+1696,267,Smartwatch,Wearables,3,8000,2025-01-27,Net Banking,Bangalore
+1697,245,Laptop,Electronics,1,60000,2024-12-22,Credit Card,Mumbai
+1698,213,Smartwatch,Wearables,4,8000,2024-05-25,Debit Card,Bangalore
+1699,292,Mouse,Accessories,4,800,2025-07-01,Net Banking,Hyderabad
+1700,258,Keyboard,Accessories,1,1500,2023-10-13,Credit Card,Mumbai
+1701,220,Mobile,Electronics,3,20000,2025-05-20,UPI,Bangalore
+1702,292,Mobile,Electronics,1,20000,2023-01-13,UPI,Pune
+1703,272,Tablet,Electronics,4,15000,2024-08-30,Debit Card,Mumbai
+1704,261,Headphones,Accessories,1,2000,2024-05-12,Net Banking,Delhi
+1705,239,Tablet,Electronics,4,15000,2025-01-02,Net Banking,Bangalore
+1706,201,Charger,Accessories,1,1000,2023-08-26,Net Banking,Mumbai
+1707,203,Laptop,Electronics,3,60000,2023-04-04,Debit Card,Pune
+1708,277,Smartwatch,Wearables,3,8000,2023-12-04,Net Banking,Kolkata
+1709,292,Headphones,Accessories,1,2000,2025-02-19,UPI,Mumbai
+1710,262,Mouse,Accessories,1,800,2023-06-20,Credit Card,Mumbai
+1711,263,Charger,Accessories,3,1000,2025-09-07,UPI,Pune
+1712,225,Mouse,Accessories,4,800,2024-08-28,UPI,Kolkata
+1713,256,Mobile,Electronics,3,20000,2024-10-22,Credit Card,Bangalore
+1714,233,Mobile,Electronics,4,20000,2024-09-15,UPI,Chennai
+1715,238,Tablet,Electronics,1,15000,2024-07-20,Debit Card,Bangalore
+1716,206,Laptop,Electronics,1,60000,2025-04-28,Credit Card,Kolkata
+1717,258,Headphones,Accessories,4,2000,2025-07-24,UPI,Hyderabad
+1718,244,Monitor,Electronics,1,12000,2024-04-11,Cash on Delivery,Pune
+1719,245,Charger,Accessories,4,1000,2024-09-19,UPI,Bangalore
+1720,232,Charger,Accessories,2,1000,2023-05-23,Debit Card,Mumbai
+1721,245,Tablet,Electronics,3,15000,2023-07-20,Net Banking,Pune
+1722,261,Mobile,Electronics,2,20000,2023-06-29,UPI,Delhi
+1723,247,Tablet,Electronics,4,15000,2024-12-14,Net Banking,Kolkata
+1724,221,Smartwatch,Wearables,3,8000,2023-12-30,Cash on Delivery,Bangalore
+1725,280,Headphones,Accessories,4,2000,2024-04-23,UPI,Pune
+1726,285,Laptop,Electronics,3,60000,2024-07-18,Credit Card,Bangalore
+1727,275,Keyboard,Accessories,3,1500,2024-04-15,Net Banking,Pune
+1728,236,Camera,Electronics,3,30000,2024-01-19,Cash on Delivery,Mumbai
+1729,299,Camera,Electronics,3,30000,2024-11-22,Credit Card,Delhi
+1730,219,Tablet,Electronics,4,15000,2025-07-14,Credit Card,Delhi
+1731,220,Smartwatch,Wearables,3,8000,2024-02-21,Credit Card,Hyderabad
+1732,257,Headphones,Accessories,3,2000,2025-04-04,Credit Card,Pune
+1733,218,Monitor,Electronics,2,12000,2023-11-04,UPI,Bangalore
+1734,247,Camera,Electronics,1,30000,2024-10-10,UPI,Delhi
+1735,249,Headphones,Accessories,1,2000,2024-11-24,UPI,Kolkata
+1736,214,Laptop,Electronics,2,60000,2024-01-02,Cash on Delivery,Delhi
+1737,215,Mouse,Accessories,2,800,2023-01-01,Cash on Delivery,Chennai
+1738,231,Smartwatch,Wearables,4,8000,2023-02-13,Cash on Delivery,Chennai
+1739,201,Mobile,Electronics,4,20000,2025-01-08,Debit Card,Delhi
+1740,254,Headphones,Accessories,4,2000,2025-04-22,Cash on Delivery,Pune
+1741,203,Laptop,Electronics,2,60000,2023-04-08,UPI,Hyderabad
+1742,216,Monitor,Electronics,2,12000,2024-12-20,UPI,Delhi
+1743,287,Keyboard,Accessories,3,1500,2023-09-22,Debit Card,Mumbai
+1744,257,Mobile,Electronics,4,20000,2025-03-10,Debit Card,Bangalore
+1745,275,Keyboard,Accessories,4,1500,2025-02-21,Cash on Delivery,Hyderabad
+1746,212,Monitor,Electronics,4,12000,2023-05-20,Net Banking,Mumbai
+1747,274,Laptop,Electronics,1,60000,2024-04-25,Debit Card,Hyderabad
+1748,296,Camera,Electronics,3,30000,2023-08-25,Credit Card,Mumbai
+1749,216,Keyboard,Accessories,4,1500,2025-08-31,UPI,Bangalore
+1750,272,Mobile,Electronics,4,20000,2025-08-10,Credit Card,Bangalore
+1751,276,Tablet,Electronics,4,15000,2025-06-22,UPI,Chennai
+1752,224,Charger,Accessories,1,1000,2023-03-13,UPI,Pune
+1753,228,Headphones,Accessories,1,2000,2024-10-28,Debit Card,Mumbai
+1754,208,Camera,Electronics,2,30000,2023-07-09,Debit Card,Chennai
+1755,292,Keyboard,Accessories,3,1500,2023-09-25,Credit Card,Mumbai
+1756,236,Mouse,Accessories,2,800,2023-11-17,UPI,Chennai
+1757,290,Headphones,Accessories,3,2000,2023-04-17,Credit Card,Bangalore
+1758,208,Tablet,Electronics,1,15000,2023-08-20,Net Banking,Hyderabad
+1759,258,Monitor,Electronics,4,12000,2023-02-11,Credit Card,Kolkata
+1760,260,Charger,Accessories,2,1000,2024-12-02,Cash on Delivery,Chennai
+1761,250,Laptop,Electronics,4,60000,2025-06-01,Credit Card,Mumbai
+1762,228,Tablet,Electronics,2,15000,2023-05-19,Cash on Delivery,Mumbai
+1763,292,Tablet,Electronics,1,15000,2024-09-06,Cash on Delivery,Kolkata
+1764,241,Monitor,Electronics,1,12000,2024-11-13,Cash on Delivery,Pune
+1765,300,Smartwatch,Wearables,1,8000,2025-05-12,Net Banking,Bangalore
+1766,264,Monitor,Electronics,2,12000,2023-09-30,Credit Card,Mumbai
+1767,227,Smartwatch,Wearables,3,8000,2024-04-25,Credit Card,Delhi
+1768,263,Smartwatch,Wearables,2,8000,2024-02-20,Net Banking,Hyderabad
+1769,217,Camera,Electronics,3,30000,2024-05-20,UPI,Chennai
+1770,273,Camera,Electronics,2,30000,2025-01-02,Debit Card,Pune
+1771,233,Mobile,Electronics,2,20000,2024-12-25,Credit Card,Kolkata
+1772,284,Keyboard,Accessories,1,1500,2025-05-02,Debit Card,Hyderabad
+1773,277,Keyboard,Accessories,4,1500,2024-02-28,Net Banking,Bangalore
+1774,292,Laptop,Electronics,4,60000,2024-02-11,UPI,Pune
+1775,229,Keyboard,Accessories,3,1500,2024-07-21,UPI,Chennai
+1776,213,Camera,Electronics,4,30000,2024-01-25,UPI,Chennai
+1777,246,Mobile,Electronics,2,20000,2023-12-08,Net Banking,Kolkata
+1778,235,Mobile,Electronics,2,20000,2025-08-03,Cash on Delivery,Delhi
+1779,206,Smartwatch,Wearables,1,8000,2024-09-05,Cash on Delivery,Kolkata
+1780,282,Monitor,Electronics,1,12000,2025-07-21,Debit Card,Bangalore
+1781,269,Laptop,Electronics,4,60000,2024-05-07,Cash on Delivery,Pune
+1782,247,Smartwatch,Wearables,3,8000,2023-07-11,Cash on Delivery,Pune
+1783,225,Monitor,Electronics,4,12000,2024-05-13,UPI,Mumbai
+1784,266,Keyboard,Accessories,4,1500,2025-04-01,UPI,Delhi
+1785,210,Smartwatch,Wearables,4,8000,2024-12-12,Debit Card,Delhi
+1786,256,Headphones,Accessories,4,2000,2023-08-21,Credit Card,Pune
+1787,230,Keyboard,Accessories,2,1500,2025-08-02,Debit Card,Pune
+1788,205,Monitor,Electronics,3,12000,2023-08-15,Debit Card,Hyderabad
+1789,233,Laptop,Electronics,2,60000,2024-01-06,Net Banking,Hyderabad
+1790,265,Monitor,Electronics,3,12000,2023-05-19,Net Banking,Hyderabad
+1791,218,Smartwatch,Wearables,1,8000,2025-05-05,Debit Card,Delhi
+1792,296,Smartwatch,Wearables,4,8000,2025-03-27,Debit Card,Mumbai
+1793,249,Tablet,Electronics,2,15000,2023-05-29,Debit Card,Chennai
+1794,211,Laptop,Electronics,3,60000,2023-04-25,Cash on Delivery,Hyderabad
+1795,285,Mouse,Accessories,1,800,2024-03-25,Net Banking,Mumbai
+1796,226,Keyboard,Accessories,1,1500,2023-03-04,Debit Card,Kolkata
+1797,263,Mobile,Electronics,4,20000,2023-04-14,UPI,Bangalore
+1798,289,Laptop,Electronics,3,60000,2025-04-30,UPI,Hyderabad
+1799,286,Mobile,Electronics,2,20000,2025-05-20,Cash on Delivery,Kolkata
+1800,259,Laptop,Electronics,4,60000,2024-10-29,Cash on Delivery,Chennai
+1801,227,Laptop,Electronics,2,60000,2023-09-30,Credit Card,Bangalore
+1802,249,Monitor,Electronics,1,12000,2023-01-06,Credit Card,Bangalore
+1803,277,Laptop,Electronics,2,60000,2023-05-27,Credit Card,Chennai
+1804,233,Tablet,Electronics,2,15000,2023-07-03,Cash on Delivery,Hyderabad
+1805,298,Mouse,Accessories,4,800,2025-09-24,Cash on Delivery,Delhi
+1806,299,Smartwatch,Wearables,2,8000,2023-01-28,Cash on Delivery,Chennai
+1807,201,Charger,Accessories,4,1000,2025-08-19,UPI,Chennai
+1808,221,Mobile,Electronics,1,20000,2024-07-03,Cash on Delivery,Chennai
+1809,255,Smartwatch,Wearables,4,8000,2023-04-29,UPI,Bangalore
+1810,206,Charger,Accessories,4,1000,2023-10-20,Credit Card,Mumbai
+1811,292,Mouse,Accessories,3,800,2024-01-06,Credit Card,Kolkata
+1812,281,Mouse,Accessories,2,800,2023-09-01,Credit Card,Delhi
+1813,269,Mobile,Electronics,1,20000,2024-08-02,Debit Card,Hyderabad
+1814,295,Mobile,Electronics,4,20000,2024-12-26,Debit Card,Hyderabad
+1815,205,Mouse,Accessories,1,800,2023-08-06,Net Banking,Kolkata
+1816,203,Charger,Accessories,3,1000,2023-06-26,Net Banking,Mumbai
+1817,253,Laptop,Electronics,2,60000,2023-10-26,Net Banking,Chennai
+1818,223,Keyboard,Accessories,4,1500,2024-11-06,Debit Card,Delhi
+1819,253,Headphones,Accessories,2,2000,2023-02-27,Debit Card,Hyderabad
+1820,237,Smartwatch,Wearables,3,8000,2023-09-26,Net Banking,Kolkata
+1821,274,Monitor,Electronics,3,12000,2023-11-04,Net Banking,Pune
+1822,274,Smartwatch,Wearables,1,8000,2024-07-23,Cash on Delivery,Kolkata
+1823,283,Monitor,Electronics,4,12000,2023-10-15,Net Banking,Hyderabad
+1824,217,Charger,Accessories,1,1000,2025-09-03,Cash on Delivery,Chennai
+1825,285,Monitor,Electronics,3,12000,2023-04-15,UPI,Pune
+1826,278,Mobile,Electronics,2,20000,2023-08-16,Debit Card,Mumbai
+1827,273,Keyboard,Accessories,1,1500,2023-09-04,Net Banking,Delhi
+1828,201,Keyboard,Accessories,1,1500,2024-11-30,Debit Card,Mumbai
+1829,251,Mobile,Electronics,2,20000,2024-05-08,Debit Card,Mumbai
+1830,245,Tablet,Electronics,1,15000,2023-03-24,Debit Card,Kolkata
+1831,277,Charger,Accessories,2,1000,2023-07-05,UPI,Delhi
+1832,204,Tablet,Electronics,4,15000,2023-09-09,Credit Card,Delhi
+1833,262,Tablet,Electronics,2,15000,2023-12-21,Net Banking,Hyderabad
+1834,265,Smartwatch,Wearables,4,8000,2025-01-19,Credit Card,Hyderabad
+1835,232,Mouse,Accessories,2,800,2025-05-21,Credit Card,Delhi
+1836,234,Smartwatch,Wearables,3,8000,2024-11-26,Credit Card,Pune
+1837,292,Mouse,Accessories,3,800,2025-03-06,Debit Card,Bangalore
+1838,295,Headphones,Accessories,4,2000,2025-06-15,Cash on Delivery,Hyderabad
+1839,272,Monitor,Electronics,4,12000,2025-07-26,Debit Card,Bangalore
+1840,239,Mouse,Accessories,3,800,2023-07-29,Debit Card,Kolkata
+1841,226,Mobile,Electronics,4,20000,2025-03-26,Credit Card,Pune
+1842,234,Smartwatch,Wearables,2,8000,2025-03-18,Debit Card,Delhi
+1843,254,Charger,Accessories,2,1000,2024-08-31,Credit Card,Pune
+1844,203,Monitor,Electronics,3,12000,2024-03-22,Cash on Delivery,Hyderabad
+1845,250,Headphones,Accessories,1,2000,2024-04-04,Net Banking,Mumbai
+1846,212,Mouse,Accessories,2,800,2025-08-25,Credit Card,Kolkata
+1847,265,Headphones,Accessories,4,2000,2024-04-16,Cash on Delivery,Delhi
+1848,254,Charger,Accessories,1,1000,2024-12-20,Net Banking,Chennai
+1849,205,Tablet,Electronics,1,15000,2024-01-05,UPI,Kolkata
+1850,294,Keyboard,Accessories,2,1500,2025-06-18,Credit Card,Bangalore
+1851,294,Charger,Accessories,2,1000,2025-07-22,Credit Card,Pune
+1852,257,Camera,Electronics,1,30000,2024-05-06,UPI,Delhi
+1853,217,Charger,Accessories,1,1000,2025-07-11,UPI,Kolkata
+1854,247,Headphones,Accessories,3,2000,2023-05-17,Credit Card,Pune
+1855,223,Mobile,Electronics,4,20000,2024-01-02,UPI,Delhi
+1856,279,Smartwatch,Wearables,3,8000,2025-06-30,Debit Card,Hyderabad
+1857,285,Mobile,Electronics,2,20000,2023-07-03,Net Banking,Kolkata
+1858,214,Headphones,Accessories,3,2000,2024-08-10,Net Banking,Hyderabad
+1859,266,Smartwatch,Wearables,3,8000,2023-10-14,Net Banking,Kolkata
+1860,275,Camera,Electronics,3,30000,2024-04-16,Debit Card,Hyderabad
+1861,251,Keyboard,Accessories,3,1500,2024-01-10,UPI,Pune
+1862,238,Monitor,Electronics,4,12000,2024-10-15,Cash on Delivery,Chennai
+1863,264,Headphones,Accessories,4,2000,2025-01-18,UPI,Kolkata
+1864,298,Mouse,Accessories,1,800,2024-06-20,Credit Card,Kolkata
+1865,238,Headphones,Accessories,2,2000,2024-05-25,Net Banking,Hyderabad
+1866,250,Headphones,Accessories,3,2000,2025-03-12,UPI,Delhi
+1867,298,Smartwatch,Wearables,1,8000,2024-08-01,Cash on Delivery,Kolkata
+1868,282,Laptop,Electronics,1,60000,2023-09-07,Credit Card,Hyderabad
+1869,230,Charger,Accessories,1,1000,2025-07-08,Debit Card,Mumbai
+1870,279,Laptop,Electronics,4,60000,2024-05-24,Debit Card,Hyderabad
+1871,291,Camera,Electronics,3,30000,2024-09-21,Cash on Delivery,Pune
+1872,251,Mouse,Accessories,3,800,2023-03-14,Credit Card,Chennai
+1873,263,Keyboard,Accessories,2,1500,2023-10-09,Net Banking,Mumbai
+1874,298,Tablet,Electronics,3,15000,2025-07-04,UPI,Pune
+1875,252,Camera,Electronics,3,30000,2025-08-17,Credit Card,Pune
+1876,238,Tablet,Electronics,1,15000,2023-12-26,Debit Card,Pune
+1877,297,Tablet,Electronics,2,15000,2023-01-10,Cash on Delivery,Delhi
+1878,288,Keyboard,Accessories,3,1500,2023-07-30,Cash on Delivery,Pune
+1879,279,Mobile,Electronics,4,20000,2025-04-14,UPI,Delhi
+1880,230,Laptop,Electronics,3,60000,2023-06-01,Cash on Delivery,Pune
+1881,251,Headphones,Accessories,1,2000,2023-01-05,Cash on Delivery,Bangalore
+1882,281,Monitor,Electronics,4,12000,2023-07-14,Credit Card,Mumbai
+1883,205,Tablet,Electronics,1,15000,2025-08-11,Net Banking,Bangalore
+1884,229,Mouse,Accessories,3,800,2023-10-10,UPI,Pune
+1885,204,Camera,Electronics,4,30000,2024-04-08,Credit Card,Mumbai
+1886,210,Mobile,Electronics,2,20000,2023-04-23,Net Banking,Mumbai
+1887,256,Tablet,Electronics,2,15000,2023-09-28,Credit Card,Kolkata
+1888,217,Mobile,Electronics,4,20000,2023-06-12,Credit Card,Chennai
+1889,274,Mobile,Electronics,4,20000,2024-04-04,Cash on Delivery,Bangalore
+1890,217,Tablet,Electronics,1,15000,2023-04-15,Net Banking,Chennai
+1891,284,Smartwatch,Wearables,4,8000,2024-11-23,UPI,Mumbai
+1892,288,Charger,Accessories,1,1000,2024-07-09,UPI,Delhi
+1893,269,Mouse,Accessories,3,800,2023-10-09,Net Banking,Mumbai
+1894,234,Headphones,Accessories,1,2000,2024-11-17,Cash on Delivery,Chennai
+1895,206,Headphones,Accessories,4,2000,2023-06-11,Debit Card,Bangalore
+1896,253,Mouse,Accessories,4,800,2025-09-09,Credit Card,Pune
+1897,266,Smartwatch,Wearables,3,8000,2023-12-17,Cash on Delivery,Kolkata
+1898,277,Headphones,Accessories,4,2000,2024-03-09,Net Banking,Kolkata
+1899,243,Mobile,Electronics,4,20000,2025-05-01,Credit Card,Kolkata
+1900,275,Keyboard,Accessories,2,1500,2023-05-20,UPI,Pune
+1901,223,Camera,Electronics,2,30000,2024-04-15,Debit Card,Kolkata
+1902,255,Laptop,Electronics,3,60000,2023-05-12,UPI,Bangalore
+1903,280,Headphones,Accessories,1,2000,2023-03-28,Net Banking,Pune
+1904,295,Mouse,Accessories,2,800,2024-11-18,Credit Card,Kolkata
+1905,275,Keyboard,Accessories,1,1500,2023-07-02,Net Banking,Pune
+1906,216,Tablet,Electronics,4,15000,2024-01-03,Credit Card,Chennai
+1907,208,Charger,Accessories,2,1000,2023-05-09,Cash on Delivery,Bangalore
+1908,204,Mouse,Accessories,3,800,2023-09-03,Debit Card,Hyderabad
+1909,204,Mobile,Electronics,3,20000,2024-08-23,Cash on Delivery,Delhi
+1910,256,Charger,Accessories,3,1000,2024-07-31,Cash on Delivery,Kolkata
+1911,225,Camera,Electronics,2,30000,2024-10-31,Net Banking,Delhi
+1912,267,Camera,Electronics,1,30000,2025-06-17,Debit Card,Pune
+1913,296,Smartwatch,Wearables,4,8000,2024-01-13,Credit Card,Delhi
+1914,267,Monitor,Electronics,1,12000,2023-05-29,Credit Card,Bangalore
+1915,227,Smartwatch,Wearables,1,8000,2025-09-11,UPI,Bangalore
+1916,293,Keyboard,Accessories,4,1500,2025-05-01,Credit Card,Mumbai
+1917,232,Charger,Accessories,4,1000,2024-03-08,Net Banking,Kolkata
+1918,250,Monitor,Electronics,2,12000,2024-09-19,Cash on Delivery,Mumbai
+1919,261,Tablet,Electronics,2,15000,2024-12-26,Cash on Delivery,Delhi
+1920,251,Mobile,Electronics,2,20000,2024-04-13,Cash on Delivery,Hyderabad
+1921,219,Charger,Accessories,2,1000,2024-03-21,Debit Card,Mumbai
+1922,221,Smartwatch,Wearables,2,8000,2024-04-25,Credit Card,Mumbai
+1923,205,Laptop,Electronics,4,60000,2025-06-02,Net Banking,Bangalore
+1924,282,Monitor,Electronics,1,12000,2023-10-21,Debit Card,Hyderabad
+1925,292,Monitor,Electronics,2,12000,2025-02-03,UPI,Pune
+1926,242,Mobile,Electronics,2,20000,2023-05-23,Net Banking,Delhi
+1927,261,Headphones,Accessories,1,2000,2023-09-07,Net Banking,Mumbai
+1928,222,Camera,Electronics,2,30000,2025-05-27,Net Banking,Hyderabad
+1929,221,Camera,Electronics,1,30000,2025-08-05,Cash on Delivery,Kolkata
+1930,270,Laptop,Electronics,1,60000,2025-09-01,Net Banking,Hyderabad
+1931,201,Keyboard,Accessories,4,1500,2023-10-29,Credit Card,Delhi
+1932,205,Keyboard,Accessories,3,1500,2023-01-25,Net Banking,Hyderabad
+1933,212,Tablet,Electronics,4,15000,2025-02-27,Cash on Delivery,Hyderabad
+1934,290,Charger,Accessories,3,1000,2025-09-10,Net Banking,Hyderabad
+1935,246,Mouse,Accessories,3,800,2025-06-07,UPI,Kolkata
+1936,234,Headphones,Accessories,3,2000,2025-06-08,UPI,Mumbai
+1937,249,Smartwatch,Wearables,2,8000,2025-06-19,Cash on Delivery,Delhi
+1938,278,Mouse,Accessories,4,800,2023-03-11,Credit Card,Kolkata
+1939,290,Mouse,Accessories,3,800,2024-09-16,Credit Card,Hyderabad
+1940,245,Monitor,Electronics,1,12000,2025-05-24,Debit Card,Hyderabad
+1941,227,Laptop,Electronics,2,60000,2023-04-22,Cash on Delivery,Mumbai
+1942,273,Camera,Electronics,4,30000,2023-12-30,Net Banking,Delhi
+1943,226,Tablet,Electronics,3,15000,2023-10-30,Cash on Delivery,Bangalore
+1944,247,Keyboard,Accessories,1,1500,2024-04-15,Debit Card,Kolkata
+1945,286,Laptop,Electronics,4,60000,2025-08-21,Cash on Delivery,Mumbai
+1946,256,Monitor,Electronics,4,12000,2023-04-01,Cash on Delivery,Delhi
+1947,294,Smartwatch,Wearables,2,8000,2024-06-13,Debit Card,Kolkata
+1948,263,Tablet,Electronics,4,15000,2024-10-22,Credit Card,Hyderabad
+1949,248,Monitor,Electronics,2,12000,2025-09-14,Net Banking,Delhi
+1950,261,Camera,Electronics,3,30000,2025-01-08,Debit Card,Delhi
+1951,281,Camera,Electronics,2,30000,2024-12-26,UPI,Pune
+1952,226,Camera,Electronics,1,30000,2025-05-21,Credit Card,Delhi
+1953,236,Laptop,Electronics,2,60000,2024-10-24,UPI,Bangalore
+1954,201,Laptop,Electronics,1,60000,2023-07-11,Credit Card,Delhi
+1955,208,Keyboard,Accessories,2,1500,2025-08-20,Net Banking,Bangalore
+1956,299,Keyboard,Accessories,4,1500,2024-07-05,Net Banking,Hyderabad
+1957,252,Smartwatch,Wearables,3,8000,2023-08-30,Cash on Delivery,Bangalore
+1958,279,Tablet,Electronics,1,15000,2023-05-18,UPI,Kolkata
+1959,247,Mobile,Electronics,2,20000,2023-12-11,Credit Card,Hyderabad
+1960,256,Mobile,Electronics,2,20000,2023-06-29,Net Banking,Hyderabad
+1961,286,Monitor,Electronics,2,12000,2024-12-12,Debit Card,Bangalore
+1962,214,Camera,Electronics,4,30000,2024-05-17,Net Banking,Mumbai
+1963,290,Tablet,Electronics,4,15000,2023-07-22,Debit Card,Chennai
+1964,228,Mouse,Accessories,1,800,2024-07-26,Credit Card,Delhi
+1965,287,Laptop,Electronics,1,60000,2023-07-11,Net Banking,Pune
+1966,278,Charger,Accessories,4,1000,2023-01-05,Net Banking,Chennai
+1967,288,Headphones,Accessories,1,2000,2025-06-08,Credit Card,Delhi
+1968,202,Smartwatch,Wearables,3,8000,2023-08-25,Net Banking,Delhi
+1969,226,Camera,Electronics,3,30000,2024-11-23,Debit Card,Hyderabad
+1970,214,Camera,Electronics,4,30000,2023-11-07,Net Banking,Delhi
+1971,259,Camera,Electronics,1,30000,2024-07-02,UPI,Pune
+1972,256,Laptop,Electronics,2,60000,2023-02-25,Cash on Delivery,Delhi
+1973,207,Laptop,Electronics,3,60000,2024-03-18,Debit Card,Bangalore
+1974,203,Headphones,Accessories,4,2000,2023-08-25,UPI,Chennai
+1975,223,Mouse,Accessories,1,800,2025-05-19,Credit Card,Bangalore
+1976,218,Tablet,Electronics,4,15000,2025-05-10,Debit Card,Pune
+1977,238,Camera,Electronics,2,30000,2023-07-16,Cash on Delivery,Delhi
+1978,299,Mobile,Electronics,3,20000,2024-08-07,Cash on Delivery,Kolkata
+1979,215,Keyboard,Accessories,4,1500,2024-07-24,Credit Card,Pune
+1980,264,Mobile,Electronics,4,20000,2025-01-21,Credit Card,Hyderabad
+1981,289,Monitor,Electronics,4,12000,2024-05-28,Debit Card,Bangalore
+1982,228,Mobile,Electronics,2,20000,2024-03-24,Net Banking,Bangalore
+1983,274,Monitor,Electronics,4,12000,2023-12-26,Credit Card,Mumbai
+1984,239,Charger,Accessories,2,1000,2024-11-30,Net Banking,Delhi
+1985,257,Keyboard,Accessories,2,1500,2025-03-29,UPI,Hyderabad
+1986,217,Mobile,Electronics,2,20000,2023-01-30,Cash on Delivery,Kolkata
+1987,286,Charger,Accessories,3,1000,2025-02-17,Net Banking,Bangalore
+1988,290,Smartwatch,Wearables,3,8000,2025-09-14,Cash on Delivery,Bangalore
+1989,244,Tablet,Electronics,4,15000,2023-04-18,Net Banking,Hyderabad
+1990,225,Charger,Accessories,4,1000,2025-04-23,UPI,Pune
+1991,217,Tablet,Electronics,3,15000,2025-07-23,Credit Card,Pune
+1992,213,Mobile,Electronics,1,20000,2024-08-24,UPI,Delhi
+1993,284,Mouse,Accessories,3,800,2024-12-17,Credit Card,Mumbai
+1994,225,Charger,Accessories,2,1000,2025-06-09,Credit Card,Bangalore
+1995,268,Keyboard,Accessories,3,1500,2025-08-25,Cash on Delivery,Mumbai
+1996,210,Mobile,Electronics,2,20000,2025-08-16,UPI,Pune
+1997,267,Camera,Electronics,4,30000,2025-08-17,Net Banking,Pune
+1998,218,Laptop,Electronics,1,60000,2024-03-20,UPI,Chennai
+1999,300,Charger,Accessories,4,1000,2025-06-11,Cash on Delivery,Kolkata
+2000,286,Keyboard,Accessories,2,1500,2024-03-13,Credit Card,Delhi
